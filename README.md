@@ -1,4 +1,4 @@
-SatoshiVM Pioneers NFT
+# SatoshiVM Pioneers NFT
 
 ## Introduction
 SatoshiVM Pioneers are the first collection of NFTs issued by SatoshiVM team to reward their early contributors.
